@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: ce41b982b0a0b544692976c77b8285e4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Advertising001
+    100002: Advertising002
+    100004: Advertising003
+    100006: Advertising004
+    100008: Advertising005
+    100010: Advertising006
+    100012: Advertising007
+    100014: Advertising008
+    100016: Advertising009
+    100018: Advertising010
+    100020: Advertising011
+    100022: Advertising012
+    100024: AdvertisingBox001
+    100026: AdvertisingBox002
+    100028: AdvertisingBox003
+    100030: AdvertisingBox004
+    100032: AdvertisingBox005
+    100034: AdvertisingBox006
+    100036: AdvertisingBox007
+    100038: AdvertisingBox008
+    100040: AdvertisingBox009
+    100042: AdvertisingBox010
+    100044: AdvertisingBox011
+    100046: AdvertisingBox012
+    100048: Campo01
+    100050: //RootNode
+    400000: Advertising001
+    400002: Advertising002
+    400004: Advertising003
+    400006: Advertising004
+    400008: Advertising005
+    400010: Advertising006
+    400012: Advertising007
+    400014: Advertising008
+    400016: Advertising009
+    400018: Advertising010
+    400020: Advertising011
+    400022: Advertising012
+    400024: AdvertisingBox001
+    400026: AdvertisingBox002
+    400028: AdvertisingBox003
+    400030: AdvertisingBox004
+    400032: AdvertisingBox005
+    400034: AdvertisingBox006
+    400036: AdvertisingBox007
+    400038: AdvertisingBox008
+    400040: AdvertisingBox009
+    400042: AdvertisingBox010
+    400044: AdvertisingBox011
+    400046: AdvertisingBox012
+    400048: Campo01
+    400050: //RootNode
+    2300000: Advertising001
+    2300002: Advertising002
+    2300004: Advertising003
+    2300006: Advertising004
+    2300008: Advertising005
+    2300010: Advertising006
+    2300012: Advertising007
+    2300014: Advertising008
+    2300016: Advertising009
+    2300018: Advertising010
+    2300020: Advertising011
+    2300022: Advertising012
+    2300024: AdvertisingBox001
+    2300026: AdvertisingBox002
+    2300028: AdvertisingBox003
+    2300030: AdvertisingBox004
+    2300032: AdvertisingBox005
+    2300034: AdvertisingBox006
+    2300036: AdvertisingBox007
+    2300038: AdvertisingBox008
+    2300040: AdvertisingBox009
+    2300042: AdvertisingBox010
+    2300044: AdvertisingBox011
+    2300046: AdvertisingBox012
+    2300048: Campo01
+    3300000: Advertising001
+    3300002: Advertising002
+    3300004: Advertising003
+    3300006: Advertising004
+    3300008: Advertising005
+    3300010: Advertising006
+    3300012: Advertising007
+    3300014: Advertising008
+    3300016: Advertising009
+    3300018: Advertising010
+    3300020: Advertising011
+    3300022: Advertising012
+    3300024: AdvertisingBox001
+    3300026: AdvertisingBox002
+    3300028: AdvertisingBox003
+    3300030: AdvertisingBox004
+    3300032: AdvertisingBox005
+    3300034: AdvertisingBox006
+    3300036: AdvertisingBox007
+    3300038: AdvertisingBox008
+    3300040: AdvertisingBox009
+    3300042: AdvertisingBox010
+    3300044: AdvertisingBox011
+    3300046: AdvertisingBox012
+    3300048: Campo01
+    4300000: Campo01
+    4300002: AdvertisingBox004
+    4300004: Advertising004
+    4300006: AdvertisingBox001
+    4300008: Advertising001
+    4300010: AdvertisingBox002
+    4300012: Advertising002
+    4300014: AdvertisingBox003
+    4300016: Advertising003
+    4300018: AdvertisingBox005
+    4300020: Advertising005
+    4300022: AdvertisingBox006
+    4300024: Advertising006
+    4300026: AdvertisingBox007
+    4300028: Advertising009
+    4300030: AdvertisingBox008
+    4300032: Advertising007
+    4300034: AdvertisingBox009
+    4300036: Advertising010
+    4300038: AdvertisingBox010
+    4300040: Advertising008
+    4300042: AdvertisingBox011
+    4300044: Advertising011
+    4300046: AdvertisingBox012
+    4300048: Advertising012
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

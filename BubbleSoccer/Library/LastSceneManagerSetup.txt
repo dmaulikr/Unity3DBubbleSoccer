@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_scene/bubble_soccer_control.unity
+  isLoaded: 1
+  isActive: 1

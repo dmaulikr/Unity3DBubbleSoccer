@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.BubbleSoccer.CSharp", "UnityVS.BubbleSoccer.CSharp.csproj", "{B8A6824A-4A8A-5304-5AE3-C0AAA2C9115B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.BubbleSoccer.CSharp.Editor", "UnityVS.BubbleSoccer.CSharp.Editor.csproj", "{5235E5FC-744B-5AFF-EF37-7B59856E6BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.BubbleSoccer.CSharp.Plugins", "UnityVS.BubbleSoccer.CSharp.Plugins.csproj", "{D2744C56-7870-E298-B67A-70268727DE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A6824A-4A8A-5304-5AE3-C0AAA2C9115B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A6824A-4A8A-5304-5AE3-C0AAA2C9115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A6824A-4A8A-5304-5AE3-C0AAA2C9115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A6824A-4A8A-5304-5AE3-C0AAA2C9115B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5235E5FC-744B-5AFF-EF37-7B59856E6BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5235E5FC-744B-5AFF-EF37-7B59856E6BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5235E5FC-744B-5AFF-EF37-7B59856E6BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5235E5FC-744B-5AFF-EF37-7B59856E6BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2744C56-7870-E298-B67A-70268727DE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2744C56-7870-E298-B67A-70268727DE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2744C56-7870-E298-B67A-70268727DE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2744C56-7870-E298-B67A-70268727DE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

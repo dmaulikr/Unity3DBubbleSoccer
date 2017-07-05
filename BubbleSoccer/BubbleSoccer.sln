@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{35C5040F-2504-85A4-0902-FA42CC131A74}") = "BubbleSoccer", "Assembly-CSharp-firstpass.csproj", "{931001AD-D06A-66FA-4116-88357CC316CE}"
+EndProject
+Project("{35C5040F-2504-85A4-0902-FA42CC131A74}") = "BubbleSoccer", "Assembly-CSharp.csproj", "{B7559468-FD0F-8F97-B9AF-EB9195113A97}"
+EndProject
+Project("{35C5040F-2504-85A4-0902-FA42CC131A74}") = "BubbleSoccer", "Assembly-CSharp-Editor.csproj", "{1AF844AD-1516-5214-C87A-E1FE4C50249A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931001AD-D06A-66FA-4116-88357CC316CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931001AD-D06A-66FA-4116-88357CC316CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931001AD-D06A-66FA-4116-88357CC316CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931001AD-D06A-66FA-4116-88357CC316CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7559468-FD0F-8F97-B9AF-EB9195113A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7559468-FD0F-8F97-B9AF-EB9195113A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7559468-FD0F-8F97-B9AF-EB9195113A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7559468-FD0F-8F97-B9AF-EB9195113A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF844AD-1516-5214-C87A-E1FE4C50249A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF844AD-1516-5214-C87A-E1FE4C50249A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF844AD-1516-5214-C87A-E1FE4C50249A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF844AD-1516-5214-C87A-E1FE4C50249A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
